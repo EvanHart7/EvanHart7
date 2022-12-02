@@ -26,6 +26,6 @@
 - ⚡ Fun fact **I LOVE CODE**
 
 
-<img src="img_chania.jpg" alt="Flowers in Chania">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjUNfspsG9awbdmLZmi_xjVygw0-PLlJ7kDg&usqp=CAU" alt="FTC">
 
 
