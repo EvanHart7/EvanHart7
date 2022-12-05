@@ -7,19 +7,17 @@
 
 
 
-- 🔭 I’m currently working on **code**
+- 🔭 I’m currently working on **a tic tac toe game**
 
-- 🌱 I’m currently learning **code**
+- 🌱 I’m currently learning **Unity**
 
-- 👯 I’m looking to collaborate on **code**
+- 👯 I’m looking to collaborate on **a Unity game**
 
-- 🤝 I’m looking for help with **code**
+- 🤝 I’m looking for help with **javascript**
 
 - 👨‍💻 All of my projects are available at [expo fr](expo fr)
 
-- 📝 I regularly write articles on [code](code)
-
-- 💬 Ask me about **code**
+- 💬 Ask me about **my painter app**
 
 - 📫 How to reach me **evanhart225@gmail.com**
 
