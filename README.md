@@ -26,6 +26,6 @@
 - ⚡ Fun fact **I LOVE CODE**
 
 
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/562/650/cd0.jpg" alt="FTC">
+<img src="[https://i.kym-cdn.com/photos/images/newsfeed/001/562/650/cd0.jpg](https://quizizz.com/media/resource/gs/quizizz-media/quizzes/7e0dd051-1e43-4379-af9a-0903268bf763?w=400&h=400)" alt="FTC">
 
 
